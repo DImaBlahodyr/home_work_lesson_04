@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Inter&family=Manrope&family=Open+Sans&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Inter&family=Manrope:wght@700&family=Open+Sans&family=Roboto&display=swap');
+
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:regular,500,600,700,800,900,italic,500italic,600italic,700italic,800italic,900italic);
+@import url('dyna-puff-fonts.css');
+@import url('inter-fonts.css');
+
+@import url('reset.css');
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: left;
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: chocolate;
+  text-align: center;
+  @import url(https://fonts.googleapis.com/css?family=Playfair+Display:regular,500,600,700,800,900,italic,500italic,600italic,700italic,800italic,900italic);
+}
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 28px;
+  color: darkblue;
+  letter-spacing: 10px;
+}
+.links {
+  font-family: 'Manrope';
+  font-weight: 700;
+  text-align: right;
+  font-style: italic;
+}
+.links > div {
+  font-size: 24px;
+}
+.information-info {
+  font-family: 'Playfair Display';
+  font-size: 24px;
+  font-weight: 500;
+}
+.nature-info > p {
+  font-family: 'DynaPuff Condensed';
+  font-size: 24px;
+  font-weight: 500;
+  text-shadow: 2px 2px 5px #2a18cb;
+}
+.origin-info {
+  font-family: 'Inter 24pt';
+  font-weight: 100;
+  font-size: 28px;
+  color: red;
+}
+.landing-page {
+  font-family: 'Inter 18pt';
+  font-size: 36px;
+  text-shadow: 4px 4px 10px lightgreen;
+}
+.portfolio {
+  font-family: 'DynaPuff Condensed';
+  font-weight: 400;
+  word-spacing: 20px;
+}
+.business-presentation {
+  font-family: 'Playfair Display';
+  color: brown;
+  font-style: oblique;
+}

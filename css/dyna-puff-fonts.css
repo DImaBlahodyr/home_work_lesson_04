@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'DynaPuff Condensed';
+    src: url('DynaPuffCondensed-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DynaPuff Condensed';
+    src: url('DynaPuffCondensed-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DynaPuff Condensed';
+    src: url('DynaPuffCondensed-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
